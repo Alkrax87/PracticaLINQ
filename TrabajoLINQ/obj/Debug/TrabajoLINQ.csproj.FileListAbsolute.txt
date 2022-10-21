@@ -1,0 +1,38 @@
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.exe.config
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.exe
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.pdb
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.AssemblyReference.cache
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.CRUDProductor.resources
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.CRUDProveedor.resources
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.Form1.resources
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.Properties.Resources.resources
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.GenerateResource.cache
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.exe
+C:\Users\rottl\Desktop\asd\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.pdb
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.exe.config
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.exe
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.pdb
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.AssemblyReference.cache
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.CRUDProductor.resources
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.CRUDProveedor.resources
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.Form1.resources
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.Properties.Resources.resources
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.GenerateResource.cache
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.exe
+C:\Users\Jimena\Source\Repos\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.pdb
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.exe.config
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.exe
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\bin\Debug\TrabajoLINQ.pdb
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.AssemblyReference.cache
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.CRUDProductor.resources
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.CRUDProveedor.resources
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.Form1.resources
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.Properties.Resources.resources
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.GenerateResource.cache
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.exe
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.pdb
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.FormBienvenida.resources
+C:\Users\linda\Downloads\Nueva carpeta\TrabajoLINQ\TrabajoLINQ\obj\Debug\TrabajoLINQ.FormPrincipal.resources
